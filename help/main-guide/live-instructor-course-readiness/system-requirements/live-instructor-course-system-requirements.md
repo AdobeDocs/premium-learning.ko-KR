@@ -19,7 +19,7 @@ ht-degree: 0%
 라이브 세션은 Adobe Connect을 사용하여 수행됩니다. 라이브 세션 중에 기술적인 문제를 방지하기 위해 다음 체크포인트를 따르십시오.
 
 1. 이 [진단 테스트](https://training.adobeconnect.com/common/help/en/support/meeting_test.htm)를 실행하여 Adobe Connect이 시스템에서 제대로 작동하는지 확인하십시오.
-1. Adobe Connect의 [기술 사양](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)을 살펴보십시오.
+1. Adobe Connect의 [기술 사양](https://helpx.adobe.com/kr/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)을 살펴보십시오.
 1. 브라우저 또는 데스크탑 애플리케이션을 통해 Adobe Connect에 가입할 수 있습니다. 데스크톱 앱이 이미 설치되어 있고 문제가 있는 경우 Adobe Connect 응용 프로그램을 제거하고 제공된 최신 버전을 사용하여 다시 설치하십시오. [여기](https://helpx.adobe.com/in/adobe-connect/connect-downloads-updates.html).
 
 캘린더 초대에서 개인화된 가상 회의실 링크를 찾을 수 있습니다. 교육 당일 수업 시작 5~10분 전에 링크 시작을 권장합니다.

@@ -23,7 +23,7 @@ ht-degree: 0%
 
 일정 초대가 없거나 개인 맞춤화된 링크에서 참가할 수 없는 경우 다음 백업 단계에 따라 회의실을 시작하십시오.
 
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)&#x200B;(으)로 이동
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings)&#x200B;(으)로 이동
 1. **[!UICONTROL 진행 중인 학습]** 섹션으로 이동합니다.
 1. **[!UICONTROL 실시간 강사]**&#x200B;에서 강의를 찾으십시오.
 1. 개요에서 **[!UICONTROL 세션 세부 정보]** 탭으로 전환하고 현재 날짜의 위치를 찾습니다.

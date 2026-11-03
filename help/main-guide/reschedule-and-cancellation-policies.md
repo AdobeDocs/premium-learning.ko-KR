@@ -19,7 +19,7 @@ ht-degree: 0%
 
 집단 또는 과정의 등록을 취소하려면
 
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings) 페이지에 나열된 등록을 찾습니다.
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings) 페이지에 나열된 등록을 찾습니다.
 2. **[!UICONTROL 등록 취소]**&#x200B;를 클릭합니다.
 
 일정 조정, 취소 및 표시 안 함 정책에 대한 자세한 내용은 [약관](/help/main-guide/terms-and-conditions.md)을 참조하세요.
@@ -28,8 +28,8 @@ ht-degree: 0%
 
 다른 일자로 스케줄을 조정하려면
 
-1. 집단 또는 과정의 등록을 취소합니다. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings) 페이지에서 등록을 찾을 수 있습니다.
-2. 다른 집단 또는 과정 날짜에 등록하려면 [**[!UICONTROL Premium 카탈로그&#x200B;]**](https://experienceleague.adobe.com/en/premium/premium-search)&#x200B;(으)로 돌아가십시오.
+1. 집단 또는 과정의 등록을 취소합니다. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings) 페이지에서 등록을 찾을 수 있습니다.
+2. 다른 집단 또는 과정 날짜에 등록하려면 [**[!UICONTROL Premium 카탈로그&#x200B;]**](https://experienceleague.adobe.com/ko/premium/premium-search)&#x200B;(으)로 돌아가십시오.
 
 일정 조정, 취소 및 표시 안 함 정책에 대한 자세한 내용은 [약관](/help/main-guide/terms-and-conditions.md)을 참조하세요.
 

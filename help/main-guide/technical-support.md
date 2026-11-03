@@ -31,8 +31,8 @@ ht-degree: 0%
 - 다른 브라우저를 사용해 보십시오.
 - 대체 네트워크 또는 장치를 사용해 보십시오. 조직의 네트워크 또는 방화벽 설정으로 인해 가상 회의실에 액세스할 수 없습니다. 가능한 경우 다른 네트워크 또는 개인 장치를 사용해 보십시오.
 - 오디오 장치 설정을 활성화합니다.
-- Adobe Connect의 [기술 사양](https://helpx.adobe.com/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)을 살펴보십시오.
-- 필요한 도메인, IP 주소 및 엔지니어링 팀이 권장하는 네트워크 포트. 필요한 UDP 및 TCP 포트를 허용하고 적절한 미디어 연결을 확인할 수 있도록 이 [관련 Adobe 문서](https://helpx.adobe.com/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)를 조직의 IT 팀과 공유하는 것이 좋습니다.
+- Adobe Connect의 [기술 사양](https://helpx.adobe.com/kr/adobe-connect/connect-tech-spec/12-10-technical-specifications.html)을 살펴보십시오.
+- 필요한 도메인, IP 주소 및 엔지니어링 팀이 권장하는 네트워크 포트. 필요한 UDP 및 TCP 포트를 허용하고 적절한 미디어 연결을 확인할 수 있도록 이 [관련 Adobe 문서](https://helpx.adobe.com/kr/adobe-connect/firewall-proxy-server-configuration-adobe-connect.html)를 조직의 IT 팀과 공유하는 것이 좋습니다.
 
 **추가 Adobe Connect 리소스:**
 
@@ -46,7 +46,7 @@ ht-degree: 0%
 캘린더 초대 내에 맞춤화된 링크를 사용하여 회의실에 참여하십시오.
 
 일정 초대가 없거나 개인 맞춤화된 링크에서 참가할 수 없는 경우 다음 백업 단계에 따라 회의실을 시작하십시오.
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)&#x200B;(으)로 이동
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings)&#x200B;(으)로 이동
 1. **[!UICONTROL 진행 중인 학습]** 섹션으로 이동합니다.
 1. **[!UICONTROL 실시간 강사]**&#x200B;에서 강의를 찾으십시오.
 1. 개요가 표시됩니다. **[!UICONTROL 세션 세부 정보]** 탭으로 전환하고 현재 날짜의 위치를 찾습니다.
@@ -57,7 +57,7 @@ ht-degree: 0%
 캘린더 초대 내에 맞춤화된 링크를 사용하여 회의실에 참여하십시오.
 
 일정 초대가 없거나 개인 맞춤화된 링크에서 참가할 수 없는 경우 다음 백업 단계에 따라 회의실을 시작하십시오.
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)&#x200B;(으)로 이동
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings)&#x200B;(으)로 이동
 1. **[!UICONTROL 진행 중인 학습]** 섹션으로 이동합니다.
 1. 집단을 찾습니다.
 1. 해당 주로 이동하여 세션을 확장합니다.

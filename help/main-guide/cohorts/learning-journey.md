@@ -35,4 +35,4 @@ ht-degree: 0%
 
 마지막 주에는 학습을 적용하는 Capstone Challenge와 Adobe 인증 시험에 대비할 수 있는 몇 가지 인증 준비 시간이 포함되어 있습니다.
 
-집단 완료 배지는 [내 도전 과제](https://experienceleague.adobe.com/en/premium/my-achievements)에서 사용할 수 있습니다.
+집단 완료 배지는 [내 도전 과제](https://experienceleague.adobe.com/ko/premium/my-achievements)에서 사용할 수 있습니다.

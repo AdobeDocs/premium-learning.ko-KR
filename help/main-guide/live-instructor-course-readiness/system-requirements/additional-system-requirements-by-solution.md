@@ -54,5 +54,5 @@ Windows 시스템 또는 소프트웨어 설치 기능이 없는 경우 다음�
 
 다음 Chrome 확장 프로그램을 다운로드하여 설치하는 것이 좋습니다.
 
-* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/en/docs/experience-platform/debugger/home)
+* [Adobe Experience Platform Debugger](https://experienceleague.adobe.com/ko/docs/experience-platform/debugger/home)
 * [Adobe Target 시각적 경험 작성기](https://chromewebstore.google.com/detail/adobe-experience-cloud-vi/kgmjjkfjacffaebgpkpcllakjifppnca?pli=1)
