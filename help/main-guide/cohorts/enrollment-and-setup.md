@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,13 +23,13 @@ ht-degree: 0%
 
 이메일과 일정 초대가 받은 편지함으로 배달되도록 하려면 연락처 또는 수신 허용 목록에 다음 주소를 추가하십시오.
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)**(학습 관련 알림 및 일정 초대에 사용)
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)**(학습 관련 알림 및 일정 초대에 사용되는 회신 주소 없음)
 
 **[environment@adobe.com](mailto:environment@adobe.com)** 및 **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)**(샌드박스 및 환경 관련 알림에 사용됨)
 
 전자 메일이 누락된 경우 스팸 또는 정크 폴더와 받은 편지함 보조 탭(예: Outlook의 **[!UICONTROL 기타]** 탭 또는 이와 유사한 필터링된 보기)을 확인하세요.
 
-**집단 시작 약 1주 전:** 집단 활동 및 사전 작업 요구 사항에 액세스할 수 있음을 알려주는 시작 이메일을 확인하십시오. 그동안 [**[!UICONTROL 내 허브&#x200B;]**](https://experienceleague.adobe.com/ko/premium/home)에서 집단 목표와 의제에 대해 읽을 수 있습니다.
+**집단 시작 약 1주 전:** 집단 활동 및 사전 작업 요구 사항에 액세스할 수 있음을 알려주는 시작 이메일을 확인하십시오. 그동안 [**[!UICONTROL 내 허브&#x200B;]**](https://experienceleague.adobe.com/en/premium/home)에서 집단 목표와 의제에 대해 읽을 수 있습니다.
 
 ## 집단 동안 사용할 환경에 액세스하려면 어떻게 합니까?
 

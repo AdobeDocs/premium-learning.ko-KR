@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '307'
+source-wordcount: '311'
 ht-degree: 0%
 ---
 
@@ -17,13 +17,13 @@ ht-degree: 0%
 
 ## 집단 라이브 세션에 대한 일정 초대가 누락되었습니다.
 
-초대는 [plsnore@adobe.com](mailto:plsnore@adobe.com)에서 가져옵니다(학습 관련 알림 및 일정 초대에 사용). 스팸 또는 정크 폴더와 보조 받은 편지함 탭(Outlook의 **[!UICONTROL 기타]** 탭 또는 이와 유사한 필터링된 보기)을 확인하세요.
+초대는 [plsnore@adobe.com](mailto:plsnore@adobe.com)(학습 관련 알림 및 일정 초대에 사용되는 회신 주소 없음)에서 가져옵니다. 스팸 또는 정크 폴더와 보조 받은 편지함 탭(Outlook의 **[!UICONTROL 기타]** 탭 또는 이와 유사한 필터링된 보기)을 확인하세요.
 
 **일정 초대 내에 개인 설정된 링크를 사용하여**&#x200B;까지 회의실에 참여하세요.
 
 일정 초대가 누락된 경우 다음 백업 단계에 따라 회의실을 시작합니다.
 
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings)&#x200B;(으)로 이동
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)&#x200B;(으)로 이동
 1. **[!UICONTROL 진행 중인 학습]** 섹션으로 이동합니다.
 1. 집단을 찾습니다.
 1. 해당 주로 이동하여 세션을 확장합니다.
@@ -33,7 +33,7 @@ ht-degree: 0%
 
 캘린더 초대 내의 개인화된 링크에서 참가할 수 없는 경우 다음 백업 단계에 따라 회의실을 시작하십시오.
 
-1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/ko/premium/learnings)&#x200B;(으)로 이동
+1. [**[!UICONTROL 내 학습&#x200B;]**](https://experienceleague.adobe.com/en/premium/learnings)&#x200B;(으)로 이동
 1. **[!UICONTROL 진행 중인 학습]** 섹션으로 이동합니다.
 1. 집단을 찾습니다.
 1. 해당 주로 이동하여 세션을 확장합니다.
