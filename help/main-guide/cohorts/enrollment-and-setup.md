@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: f3bad68f1a3da076d6409bccd1b7c48fdfb11c21
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '357'
+source-wordcount: '361'
 ht-degree: 0%
 ---
 
@@ -23,7 +23,7 @@ ht-degree: 0%
 
 이메일과 일정 초대가 받은 편지함으로 배달되도록 하려면 연락처 또는 수신 허용 목록에 다음 주소를 추가하십시오.
 
-**[plsnore@adobe.com](mailto:plsnore@adobe.com)**(학습 관련 알림 및 일정 초대에 사용)
+**[plsnore@adobe.com](mailto:plsnore@adobe.com)**(학습 관련 알림 및 일정 초대에 사용되는 회신 주소 없음)
 
 **[environment@adobe.com](mailto:environment@adobe.com)** 및 **[atsenvironmentsupport@adobe.com](mailto:atsenvironmentsupport@adobe.com)**(샌드박스 및 환경 관련 알림에 사용됨)
 

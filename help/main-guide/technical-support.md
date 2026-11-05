@@ -7,9 +7,9 @@ product_v2:
 topic_v2:
   - id: c1579802-ddd4-4214-8a91-97b2066abe11
     internal-label: Troubleshooting
-source-git-commit: 0e0ff1f56fb5a43c2f4042872e11afeac01afab0
+source-git-commit: 07e74cd68f8d271c42b40fb554a773391e0ad0ed
 workflow-type: tm+mt
-source-wordcount: '769'
+source-wordcount: '771'
 ht-degree: 0%
 ---
 회의실이나 콘텐츠를 시작하는 데 도움이 필요하십니까? 지금 수업 중인 경험에 문제가 있습니까?
@@ -73,6 +73,6 @@ ht-degree: 0%
 
 ## 이메일 전달성 팁
 
-학습 전자 메일 및 일정 초대는 [plsnore@adobe.com](mailto:plsnore@adobe.com)에서 전송됩니다. 중요한 업데이트를 받으려면 연락처 또는 수신 허용 목록에 이 이메일 주소를 추가하십시오. 전자 메일을 놓친 경우 스팸 또는 정크 폴더와 필터링된 받은 편지함 탭(예: Outlook의 **[!UICONTROL 기타]** 탭)을 확인하세요.
+학습 전자 메일 및 일정 초대는 [plsnore@adobe.com](mailto:plsnore@adobe.com)(회신 주소 없음)에서 보냅니다. 중요한 업데이트를 받으려면 연락처 또는 수신 허용 목록에 이 이메일 주소를 추가하십시오. 전자 메일을 놓친 경우 스팸 또는 정크 폴더와 필터링된 받은 편지함 탭(예: Outlook의 **[!UICONTROL 기타]** 탭)을 확인하세요.
 
 질문이 여기에 나열되지 않았습니까? [문의하기](https://adobe.service-now.com/adls?category=6).
